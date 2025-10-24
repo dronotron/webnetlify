@@ -3,3 +3,9 @@
   Access-Control-Allow-Methods: GET, OPTIONS
   Access-Control-Allow-Headers: Range
   Accept-Ranges: bytes
+/catd6/media/*.wasm
+  Content-Type: application/wasm
+  Content-Encoding: identity
+/catd6/media/*.bin
+  Content-Type: application/octet-stream
+  Content-Encoding: identity
