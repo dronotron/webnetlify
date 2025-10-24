@@ -7,6 +7,11 @@ panorama_000DF001_16F4_7566_41B2_611EC11EDB5B.label = FONDO NEGRO
 model_63577D0D_71A9_DC2E_41D3_DF2B980E61E8.label = msh-hi
 model_032D3BF0_1750_1E1A_41B0_16780FDEAC72.label = msh-lo
 
+## Skin
+
+### Botón
+Button_3C40B9FD_183D_A7B2_41B7_62F5493AC54B.label = ENVIAR UA
+
 ## Tour
 
 ### Descripción
