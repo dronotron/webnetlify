@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+model_63577D0D_71A9_DC2E_41D3_DF2B980E61E8.label = msh
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = demo MSH

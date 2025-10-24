@@ -1,11 +1,13 @@
-/*
+/DEMOTOURS3D/*
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET, OPTIONS
   Access-Control-Allow-Headers: Range
   Accept-Ranges: bytes
-/catd6/media/*.wasm
+
+/DEMOTOURS3D/*/lib/**/*.wasm
   Content-Type: application/wasm
   Content-Encoding: identity
-/catd6/media/*.bin
+
+/DEMOTOURS3D/*/media/**/*.bin
   Content-Type: application/octet-stream
   Content-Encoding: identity
