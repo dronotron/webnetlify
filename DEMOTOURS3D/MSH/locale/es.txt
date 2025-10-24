@@ -3,7 +3,9 @@
 ## Media
 
 ### Título
-model_63577D0D_71A9_DC2E_41D3_DF2B980E61E8.label = msh
+panorama_000DF001_16F4_7566_41B2_611EC11EDB5B.label = FONDO NEGRO
+model_63577D0D_71A9_DC2E_41D3_DF2B980E61E8.label = msh-hi
+model_0331ECBF_1703_1214_41A9_752478F62478.label = msh-lo
 
 ## Tour
 
